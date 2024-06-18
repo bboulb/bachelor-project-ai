@@ -1,0 +1,23 @@
+1/1;1/1: LOSE
+------------
+Win Rate: 0.0
+Percentage Completion: 16.313767433166504
+Lives: 0.0
+Coins: 0.0
+Remaining Time: 19.0
+Mario State: 0.0
+Mushrooms: 0.0
+Fire Flowers: 0.0
+Total Kills: 0.0
+Stomp Kills: 0.0
+Fireball Kills: 0.0
+Shell Kills: 0.0
+Fall Kills: 0.0
+Bricks: 0.0
+Jumps: 2.0
+Max X Jump: 116.10969543457031
+Max Air Time: 10.0
+Brick bump: 0.0
+Question block bump: 0.0
+Mario hits: 0.0
+
